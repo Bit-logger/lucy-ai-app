@@ -10,7 +10,7 @@ git add .
 git commit -m "Initial commit: Lucy AI Learning App"
 
 # Create repository on GitHub first, then:
-git remote add origin https://github.com/YOUR_USERNAME/lucy-ai-app.git
+git remote add origin https://github.com/Bit-logger/lucy-ai-app.git
 git branch -M main
 git push -u origin main
 ```
